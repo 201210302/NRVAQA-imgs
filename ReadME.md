@@ -2,6 +2,6 @@
 
 ### NIQE
 
-    python test-img.py --mode niqe --path=Result/ILSVRC2012_DeSRA/  # modify the mode and path
+    python test-img.py --mode niqe --path=imgs/  # modify the mode and path
 
 
